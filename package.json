@@ -1,0 +1,36 @@
+{
+  "name": "bocchi-the-rock-theme",
+  "displayName": "Bocchi The Rock Theme",
+  "description": "VSCode theme based on Bocchi The Rock!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bocchi - Hitori",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bocchi-hitori-color-theme.json"
+      },
+      {
+        "label": "Bocchi - Ikuyo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bocchi-ikuyo-color-theme.json"
+      },
+      {
+        "label": "Bocchi - Nijika",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bocchi-nijika-color-theme.json"
+      },
+      {
+        "label": "Bocchi - Ryo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bocchi-ryo-color-theme.json"
+      }
+    ]
+  }
+}

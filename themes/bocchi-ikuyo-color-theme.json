@@ -1,0 +1,121 @@
+{
+    "name": "Bocchi - Ikuyo",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#341F1A",
+        "editor.foreground": "#F8E2DE",
+        "activityBarBadge.background": "#DA544B",
+        "sideBarTitle.foreground": "#F8E2DE",
+        "titleBar.activeBackground": "#341F1A",
+        "titleBar.activeForeground": "#F8E2DE",
+        "statusBar.background": "#341F1A",
+        "statusBar.foreground": "#F8E2DE",
+        "sideBar.background": "#601D1B",
+        "activityBar.background": "#601D1B",
+        "tab.activeBackground": "#341F1A",
+        "tab.inactiveBackground": "#601D1B"
+    },
+    "tokenColors": [
+        {
+            "name": "Kita Ikuyo - Keywords",
+            "scope": [
+                "keyword",
+                "storage.type",
+                "storage.modifier",
+                "keyword.control.flow",
+                "keyword.operator.new"
+            ],
+            "settings": {
+                "foreground": "#DA544B"
+            }
+        },
+        {
+            "name": "Kita Ikuyo - Comments",
+            "scope": [
+                "comment",
+                "punctuation.definition.comment"
+            ],
+            "settings": {
+                "foreground": "#715C53",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Kita Ikuyo - Functions",
+            "scope": [
+                "entity.name.function",
+                "support.function",
+                "meta.function-call"
+            ],
+            "settings": {
+                "foreground": "#F8E2DE"
+            }
+        },
+        {
+            "name": "Kita Ikuyo - Types",
+            "scope": [
+                "entity.name.type",
+                "entity.name.class",
+                "entity.name.struct",
+                "support.type",
+                "support.class"
+            ],
+            "settings": {
+                "foreground": "#FAD19D"
+            }
+        },
+        {
+            "name": "Kita Ikuyo - Strings",
+            "scope": [
+                "string",
+                "string.template",
+                "string.quoted.single",
+                "string.quoted.double"
+            ],
+            "settings": {
+                "foreground": "#C15C59"
+            }
+        },
+        {
+            "name": "Kita Ikuyo - Numbers",
+            "scope": [
+                "constant.numeric"
+            ],
+            "settings": {
+                "foreground": "#AB3533"
+            }
+        },
+        {
+            "name": "Kita Ikuyo - Punctuation",
+            "scope": [
+                "punctuation",
+                "meta.brace",
+                "meta.delimiter"
+            ],
+            "settings": {
+                "foreground": "#8B5553"
+            }
+        },
+        {
+            "name": "Kita Ikuyo - Brackets",
+            "scope": [
+                "meta.bracket",
+                "punctuation.definition.bracket"
+            ],
+            "settings": {
+                "foreground": "#C15C59"
+            }
+        },
+        {
+            "name": "Kita Ikuyo - Special Operators",
+            "scope": [
+                "keyword.operator.arithmetic",
+                "keyword.operator.logical",
+                "keyword.operator.comparison"
+            ],
+            "settings": {
+                "foreground": "#DA544B"
+            }
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "name": "Bocchi - Ryo",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#2A2F3E",
+        "editor.foreground": "#FEFEFE",
+        "editor.lineHighlightBackground": "#33497B",
+        "editor.selectionBackground": "#4B6BA4",
+        "editor.selectionHighlightBackground": "#4B6BA480",
+        "editor.findMatchBackground": "#4B6BA466",
+        "editor.findMatchHighlightBackground": "#4B6BA444",
+        "editorLineNumber.foreground": "#4B6BA4",
+        "editorLineNumber.activeForeground": "#8CA0C3",
+        "editorIndentGuide.background": "#33497B50",
+        "editorIndentGuide.activeBackground": "#33497B",
+        "editorBracketMatch.background": "#4B6BA440",
+        "editorBracketMatch.border": "#4B6BA4",
+        "sideBar.background": "#33497B",
+        "sideBar.foreground": "#FEFEFE",
+        "sideBarTitle.foreground": "#FEFEFE",
+        "sideBarSectionHeader.background": "#2A2F3E",
+        "sideBarSectionHeader.foreground": "#FEFEFE",
+        "activityBar.background": "#33497B",
+        "activityBar.foreground": "#FEFEFE",
+        "activityBar.inactiveForeground": "#FEFEFE66",
+        "activityBarBadge.background": "#4B6BA4",
+        "activityBarBadge.foreground": "#FFFFFF",
+        "titleBar.activeBackground": "#2A2F3E",
+        "titleBar.activeForeground": "#FEFEFE",
+        "titleBar.inactiveBackground": "#2A2F3ECC",
+        "titleBar.inactiveForeground": "#FEFEFECC",
+        "statusBar.background": "#2A2F3E",
+        "statusBar.foreground": "#FEFEFE",
+        "statusBar.debuggingBackground": "#4B6BA4",
+        "statusBar.noFolderBackground": "#33497B",
+        "tab.activeBackground": "#2A2F3E",
+        "tab.inactiveBackground": "#33497B",
+        "tab.activeForeground": "#FEFEFE",
+        "tab.inactiveForeground": "#FEFEFEB3",
+        "tab.activeBorderTop": "#4B6BA4",
+        "tab.hoverBackground": "#2A2F3ECC",
+        "list.activeSelectionBackground": "#4B6BA4",
+        "list.activeSelectionForeground": "#FFFFFF",
+        "list.inactiveSelectionBackground": "#4B6BA466",
+        "list.hoverBackground": "#4B6BA433",
+        "list.highlightForeground": "#8CA0C3",
+        "breadcrumb.foreground": "#FEFEFE99",
+        "breadcrumb.focusForeground": "#FEFEFE",
+        "breadcrumb.activeSelectionForeground": "#8CA0C3",
+        "scrollbarSlider.background": "#4B6BA444",
+        "scrollbarSlider.hoverBackground": "#4B6BA488",
+        "scrollbarSlider.activeBackground": "#4B6BA4BB"
+    },
+    "tokenColors": [
+        {
+            "name": "Ryo Yamada - Keywords",
+            "scope": [
+                "keyword",
+                "storage.type",
+                "storage.modifier",
+                "keyword.control.flow",
+                "keyword.operator.new"
+            ],
+            "settings": {
+                "foreground": "#4B6BA4"
+            }
+        },
+        {
+            "name": "Ryo Yamada - Comments",
+            "scope": [
+                "comment",
+                "punctuation.definition.comment"
+            ],
+            "settings": {
+                "foreground": "#B6B5B3",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Ryo Yamada - Functions",
+            "scope": [
+                "entity.name.function",
+                "support.function",
+                "meta.function-call"
+            ],
+            "settings": {
+                "foreground": "#F6E7DC"
+            }
+        },
+        {
+            "name": "Ryo Yamada - Types",
+            "scope": [
+                "entity.name.type",
+                "entity.name.class",
+                "entity.name.struct",
+                "support.type",
+                "support.class"
+            ],
+            "settings": {
+                "foreground": "#FEFEFE"
+            }
+        },
+        {
+            "name": "Ryo Yamada - Strings",
+            "scope": [
+                "string",
+                "string.template",
+                "string.quoted.single",
+                "string.quoted.double"
+            ],
+            "settings": {
+                "foreground": "#8CA0C3"
+            }
+        },
+        {
+            "name": "Ryo Yamada - Numbers",
+            "scope": [
+                "constant.numeric"
+            ],
+            "settings": {
+                "foreground": "#DBD165"
+            }
+        },
+        {
+            "name": "Ryo Yamada - Punctuation",
+            "scope": [
+                "punctuation",
+                "meta.brace",
+                "meta.delimiter"
+            ],
+            "settings": {
+                "foreground": "#4B6BA4"
+            }
+        },
+        {
+            "name": "Ryo Yamada - Brackets",
+            "scope": [
+                "meta.bracket",
+                "punctuation.definition.bracket"
+            ],
+            "settings": {
+                "foreground": "#8CA0C3"
+            }
+        },
+        {
+            "name": "Ryo Yamada - Special Operators",
+            "scope": [
+                "keyword.operator.arithmetic",
+                "keyword.operator.logical",
+                "keyword.operator.comparison"
+            ],
+            "settings": {
+                "foreground": "#6B8AB4"
+            }
+        }
+    ]
+}

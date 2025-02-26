@@ -1,0 +1,82 @@
+{
+    "name": "Bocchi - Hitori",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#31404D",
+        "editor.foreground": "#EEE1DD",
+        "activityBarBadge.background": "#E8A4B4",
+        "sideBarTitle.foreground": "#EEE1DD",
+        "titleBar.activeBackground": "#31404D",
+        "titleBar.activeForeground": "#EEE1DD",
+        "statusBar.background": "#31404D",
+        "statusBar.foreground": "#EEE1DD",
+        "sideBar.background": "#262A2F",
+        "activityBar.background": "#262A2F",
+        "tab.activeBackground": "#31404D",
+        "tab.inactiveBackground": "#262A2F"
+    },
+    "tokenColors": [
+        {
+            "name": "Hitori Gotou - Keywords",
+            "scope": [
+                "keyword",
+                "storage.type",
+                "storage.modifier"
+            ],
+            "settings": {
+                "foreground": "#E8A4B4"
+            }
+        },
+        {
+            "name": "Hitori Gotou - Types",
+            "scope": [
+                "entity.name.type",
+                "entity.name.class",
+                "entity.name.struct"
+            ],
+            "settings": {
+                "foreground": "#BC798B"
+            }
+        },
+        {
+            "name": "Hitori Gotou - Functions",
+            "scope": [
+                "entity.name.function"
+            ],
+            "settings": {
+                "foreground": "#64A6C3"
+            }
+        },
+        {
+            "name": "Hitori Gotou - Strings",
+            "scope": [
+                "string",
+                "string.template"
+            ],
+            "settings": {
+                "foreground": "#684D4F"
+            }
+        },
+        {
+            "name": "Hitori Gotou - Comments",
+            "scope": [
+                "comment",
+                "punctuation.definition.comment"
+            ],
+            "settings": {
+                "foreground": "#B59F9B",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Hitori Gotou - Variables",
+            "scope": [
+                "variable",
+                "variable.other"
+            ],
+            "settings": {
+                "foreground": "#956C42"
+            }
+        }
+    ]
+}
