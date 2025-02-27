@@ -12,8 +12,8 @@ VS Code 主题包，灵感来自《孤独摇滚！》动画。包含了四个主
 - 强调色：`#FE01FE`（亮粉色）
 - 辅助色：`#B4698C`（暗玫瑰色）
 - 配色灵感来自后藤标志性的粉色头发和校服配色
-- 参考图片:
-![](https://pic1.imgdb.cn/item/67bff29cd0e0a243d406b828.jpg)
+- 参考图片:\
+<img src="https://pic1.imgdb.cn/item/67bff29cd0e0a243d406b828.jpg" width = "200" height = "400" alt="图片名称" align=center />
 
 ### 伊地知虹夏 (Nijika Ijichi)
 - 基于角色的金色系配色
@@ -22,8 +22,9 @@ VS Code 主题包，灵感来自《孤独摇滚！》动画。包含了四个主
 - 辅助色：`#EDCE60`（暗金色）
 - 配色灵感来自虹夏金色的头发和阳光般的性格
 - 参考图片:
->浅色参考
-![](https://pic1.imgdb.cn/item/67bff29cd0e0a243d406b82a.jpg)
+>浅色参考\
+<img src="https://pic1.imgdb.cn/item/67bff29cd0e0a243d406b82a.jpg" width = "200" height = "400" alt="图片名称" align=center />
+
 >深色参考
 ![](https://pic1.imgdb.cn/item/67bff347d0e0a243d406b879.jpg)
 ### 山田凉 (Ryo Yamada)
@@ -32,8 +33,8 @@ VS Code 主题包，灵感来自《孤独摇滚！》动画。包含了四个主
 - 强调色：`#035555`（深青色）
 - 辅助色：`#0C7D7D`（青色）
 - 配色灵感来自凉冷静沉着的性格和深色系穿着
-- 参考图片:
-![](https://pic1.imgdb.cn/item/67bff29bd0e0a243d406b826.jpg)
+- 参考图片:\
+<img src="https://pic1.imgdb.cn/item/67bff29bd0e0a243d406b826.jpg" width = "200" height = "400" alt="图片名称" align=center />
 
 ### 喜多郁代 (Ikuyo Kita)
 - 基于角色的红色系配色
@@ -41,9 +42,8 @@ VS Code 主题包，灵感来自《孤独摇滚！》动画。包含了四个主
 - 强调色：`#A52A2A`（深红色）
 - 辅助色：`#F4A5B0`（粉红色）
 - 配色灵感来自喜多充满活力的性格和红色主题
-- 参考图片:
-![](https://pic1.imgdb.cn/item/67bff29bd0e0a243d406b827.jpg)
-
+- 参考图片:\
+<img src="https://pic1.imgdb.cn/item/67bff29bd0e0a243d406b827.jpg" width = "200" height = "400" alt="图片名称" align=center />
 
 ## 主题特点
 
