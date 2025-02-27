@@ -65,35 +65,62 @@ VS Code 主题包，灵感来自《孤独摇滚！》动画。包含了四个主
 
 ## 主题预览
 
+### 深色主题
 <div align="center">
   <table>
     <tr>
-      <th colspan="2">深色主题</th>
-      <th colspan="2">浅色主题</th>
+      <td align="center" width="400px">
+        <img src="https://i.ejiaimg.cn/255/2025/02/27/67c004b49107b.png" width="400" alt="Hitori Dark">
+        <br>
+        <em>后藤一里 深色主题</em>
+      </td>
+      <td align="center" width="400px">
+        <img src="https://i.ejiaimg.cn/255/2025/02/27/67c004af91434.png" width="400" alt="Ikuyo Dark">
+        <br>
+        <em>喜多郁代 深色主题</em>
+      </td>
     </tr>
     <tr>
-      <td><img src="https://i.ejiaimg.cn/255/2025/02/27/67c004b49107b.png" width="200" alt="Hitori Dark"></td>
-      <td><img src="https://i.ejiaimg.cn/255/2025/02/27/67c004af91434.png" width="200" alt="Ikuyo Dark"></td>
-      <td><img src="https://i.ejiaimg.cn/255/2025/02/27/67c004b4874c8.png" width="200" alt="Hitori Light"></td>
-      <td><img src="https://i.ejiaimg.cn/255/2025/02/27/67c004b42cf02.png" width="200" alt="Ikuyo Light"></td>
+      <td align="center">
+        <img src="https://i.ejiaimg.cn/255/2025/02/27/67c004af931c2.png" width="400" alt="Nijika Dark">
+        <br>
+        <em>伊地知虹夏 深色主题</em>
+      </td>
+      <td align="center">
+        <img src="https://i.ejiaimg.cn/255/2025/02/27/67c004af49167.png" width="400" alt="Ryo Dark">
+        <br>
+        <em>山田凉 深色主题</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 浅色主题
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="400px">
+        <img src="https://i.ejiaimg.cn/255/2025/02/27/67c004b4874c8.png" width="400" alt="Hitori Light">
+        <br>
+        <em>后藤一里 浅色主题</em>
+      </td>
+      <td align="center" width="400px">
+        <img src="https://i.ejiaimg.cn/255/2025/02/27/67c004b42cf02.png" width="400" alt="Ikuyo Light">
+        <br>
+        <em>喜多郁代 浅色主题</em>
+      </td>
     </tr>
     <tr>
-      <td><em>后藤一里 深色</em></td>
-      <td><em>喜多郁代 深色</em></td>
-      <td><em>后藤一里 浅色</em></td>
-      <td><em>喜多郁代 浅色</em></td>
-    </tr>
-    <tr>
-      <td><img src="https://i.ejiaimg.cn/255/2025/02/27/67c004af931c2.png" width="200" alt="Nijika Dark"></td>
-      <td><img src="https://i.ejiaimg.cn/255/2025/02/27/67c004af49167.png" width="200" alt="Ryo Dark"></td>
-      <td><img src="https://i.ejiaimg.cn/255/2025/02/27/67c004af7647b.png" width="200" alt="Nijika Light"></td>
-      <td><img src="https://i.ejiaimg.cn/255/2025/02/27/67c004af7b24a.png" width="200" alt="Ryo Light"></td>
-    </tr>
-    <tr>
-      <td><em>伊地知虹夏 深色</em></td>
-      <td><em>山田凉 深色</em></td>
-      <td><em>伊地知虹夏 浅色</em></td>
-      <td><em>山田凉 浅色</em></td>
+      <td align="center">
+        <img src="https://i.ejiaimg.cn/255/2025/02/27/67c004af7647b.png" width="400" alt="Nijika Light">
+        <br>
+        <em>伊地知虹夏 浅色主题</em>
+      </td>
+      <td align="center">
+        <img src="https://i.ejiaimg.cn/255/2025/02/27/67c004af7b24a.png" width="400" alt="Ryo Light">
+        <br>
+        <em>山田凉 浅色主题</em>
+      </td>
     </tr>
   </table>
 </div>
@@ -156,7 +183,7 @@ VS Code 主题包，灵感来自《孤独摇滚！》动画。包含了四个主
 
 ## 贡献
 
-欢迎在 [GitHub](https://github.com/your-username/bocchi-the-rock-theme) 上提交问题和建议。
+欢迎在 [GitHub](https://github.com/Nijika-jia/bocchi-the-rock-theme) 上提交问题和建议。
 
 ## 许可
 
