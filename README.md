@@ -103,7 +103,7 @@ VS Code 主题包，灵感来自《孤独摇滚！》动画。包含了四个主
 
 ## 贡献
 
-欢迎在 [GitHub](https://github.com/your-username/bocchi-the-rock-theme) 上提交问题和建议。
+欢迎在 [GitHub](https://github.com/Nijika-jia/bocchi-the-rock-theme) 上提交问题和建议。
 
 ## 许可
 
